@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/butTag"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:background="@drawable/tags_button"
+    android:textColor="@color/tags_text_borders"
+    android:layout_marginLeft="@dimen/tags_margin"
+    android:layout_marginRight="@dimen/tags_margin"
+    android:textScaleX="0.8"
+    android:scaleY="0.75"
+    android:fontFamily="@font/montserrat_medium"
+    />
+

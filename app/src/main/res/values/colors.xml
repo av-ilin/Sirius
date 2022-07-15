@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="stars">#F3D144</color>
+    <color name="gradeCnt">#45454D</color>
+    <color name="main_background">#050B18</color>
+    <color name="fab_background">#47FFFFFF</color>
+    <color name="description">#B3EEF2FB</color>
+    <color name="tags_rectangle">#3D44A9F4</color>
+    <color name="tags_text_borders">#41A0E7</color>
+    <color name="review_ratings">#EEF2FB</color>
+    <color name="tv_review_count">#A8ADB7</color>
+    <color name="review_line">#1A1F29</color>
+    <color name="button_install">#F4D144</color>
+    <color name="install">#050B18</color>
+</resources>

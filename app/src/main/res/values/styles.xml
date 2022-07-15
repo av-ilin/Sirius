@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ImageView.Corner" parent="">
+        <item name="cornerSizeTopRight">13.5dp</item>
+        <item name="cornerSizeTopLeft">13.5dp</item>
+        <item name="cornerSizeBottomLeft">13.5dp</item>
+        <item name="cornerSizeBottomRight">13.5dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+    <style name="ImageView.Circle" parent="">
+        <item name="android:shape">oval</item>
+    </style>
+</resources>
